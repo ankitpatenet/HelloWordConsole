@@ -1,0 +1,10 @@
+c:\users\apatel\documents\visual studio 2015\Projects\HelloWord.API.Console\HelloWord.API.Console\bin\Debug\HelloWord.API.Client.Console.exe.config
+c:\users\apatel\documents\visual studio 2015\Projects\HelloWord.API.Console\HelloWord.API.Console\bin\Debug\HelloWord.API.Client.Console.exe
+c:\users\apatel\documents\visual studio 2015\Projects\HelloWord.API.Console\HelloWord.API.Console\bin\Debug\HelloWord.API.Client.Console.pdb
+c:\users\apatel\documents\visual studio 2015\Projects\HelloWord.API.Console\HelloWord.API.Console\obj\Debug\HelloWord.API.Client.Console.exe
+c:\users\apatel\documents\visual studio 2015\Projects\HelloWord.API.Console\HelloWord.API.Console\obj\Debug\HelloWord.API.Client.Console.pdb
+c:\users\apatel\documents\visual studio 2015\Projects\HelloWord.API.Console\HelloWord.API.Console\obj\Debug\HelloWord.API.Client.Console.csprojResolveAssemblyReference.cache
+C:\Users\apatel\Documents\visual studio 2015\Projects\HelloWord.API.Console\HelloWord.API.Console\bin\Debug\HelloWord.API.Client.Core.dll
+C:\Users\apatel\Documents\visual studio 2015\Projects\HelloWord.API.Console\HelloWord.API.Console\bin\Debug\Newtonsoft.Json.dll
+C:\Users\apatel\Documents\visual studio 2015\Projects\HelloWord.API.Console\HelloWord.API.Console\bin\Debug\HelloWord.API.Client.Core.pdb
+C:\Users\apatel\Documents\visual studio 2015\Projects\HelloWord.API.Console\HelloWord.API.Console\bin\Debug\Newtonsoft.Json.xml
